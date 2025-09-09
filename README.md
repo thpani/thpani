@@ -28,14 +28,9 @@ I help protocol teams **find deep bugs** and **ship with confidence**.
 
 ---
 
-### 🛠️ Languages
-Solidity · Rust · Go · Lean · Python · TypeScript
-
-### 📐 Verification
-Alloy · Lean4 · Certora Prover · Quint/TLA+ · SMT (CVC5, Z3)
-
-### 🧪 Fuzzing
-AFL · cargo-fuzz · libFuzzer · Echidna/Medusa · Wake
+**🛠️ Languages:** Solidity · Rust · Go · Lean · Python · TypeScript  
+**📐 Verification:** Alloy · Lean4 · Certora Prover · Quint/TLA+ · SMT (CVC5, Z3)  
+**🧪 Fuzzing:** AFL · cargo-fuzz · libFuzzer · Echidna/Medusa · Wake
 
 ---
 
