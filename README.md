@@ -22,6 +22,7 @@ I help protocol teams **find deep bugs** and **ship with confidence**.
 
 ### ⏪ Recent work
 - 🍩 **3-slot finality (3SF)** — formal modeling & accountability proofs (Ethereum) · [repo](https://github.com/freespek/ssf-mc)
+- 🧪 **Protocol fuzzing workshop** @ Protocol Berg v2 · [repo](https://github.com/thpani/fuzz-pb25)
 - :shipit: **Soroban smart contract audit** - focus on authentication & authorization  · TBA 
 - 🌟 **Solarkraft** — runtime verification for Soroban/Stellar smart contracts · [repo](https://github.com/freespek/solarkraft)
 - 🎠 Improving **Apalache** to find bugs in smart contracts, dApps, and protocols · [repo](https://github.com/apalache-mc/apalache)
