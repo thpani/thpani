@@ -13,12 +13,12 @@ I help protocol teams **find deep bugs** and **ship with confidence**.
 - 📐 **Formal Modeling & Verification** — prove protocol properties with machine-checked guarantees.
 - 🧭 **Security Strategy & Training** — design for safety; ship with confidence.
 
+---
+
 ### 🚂 Currently working on
 - 🔥 **[redacted]** — formal verification of Solidity components with **Quint** & **Apalache**
 - 🛡️ Independent **audits/code reviews** (Cantina, Code4rena, Sherlock)
 - 💙 Core team: **Apalache** — symbolic model checker for **TLA+** & **Quint**
-
----
 
 ### ⏪ Recent work
 - 🍩 **3-slot finality (3SF)** — formal modeling & accountability proofs (Ethereum) · [repo](https://github.com/freespek/ssf-mc)
