@@ -1,8 +1,5 @@
 Hey, I’m Thomas 👋
 
-**Audit → Fuzz → Verify.**  
-Stress what can break. Prove what must hold. Ship with confidence.
-
 I help protocol teams **find deep bugs** and **ship with confidence**.
 
 📫 How to reach me: **[blltprf.xyz](https://blltprf.xyz)** · webintake@blltprf.xyz · [@audithare](https://t.me/audithare)
