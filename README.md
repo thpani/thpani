@@ -19,11 +19,11 @@ Before you spend big on a protocol audit or contest, get a 1-week diagnostic to 
 ---
 
 ### 🚂 Currently working on
-- 🔥 **[redacted]** — formal verification of Solidity components with **Quint** & **Apalache**  
 - 🛡️ Independent **audits/code reviews** (Cantina, Code4rena, Sherlock)  
 - 💙 Core team: **Apalache** — symbolic model checker for **TLA+** & **Quint**
 
 ### ⏪ Recent work
+- 🔥 **[redacted]** — formal verification of L2 governance protocol with **Quint** & **Apalache**
 - 🍩 **3-slot finality (3SF)** — formal modeling & accountability proofs (Ethereum) · [repo](https://github.com/freespek/ssf-mc)  
 - 🧪 **Protocol fuzzing workshop** @ Protocol Berg v2 · [repo](https://github.com/thpani/fuzz-pb25)  
 - 🚢 **Soroban smart contract audit** — authentication / authorization · TBA  
