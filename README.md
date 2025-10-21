@@ -24,7 +24,7 @@ Before you spend big on a protocol audit or contest, get a 1-week diagnostic to 
 
 ### ⏪ Recent work
 - 🔥 **[redacted]** — formal verification of L2 governance protocol with **Quint** & **Apalache**
-- 🍩 **3-slot finality (3SF)** — formal modeling & accountability proofs (Ethereum) · [repo](https://github.com/freespek/ssf-mc)  
+- 🍩 **Ethereum Foundation: 3-slot finality (3SF)** — formal modeling & verification of accountability · [repo](https://github.com/freespek/ssf-mc)  
 - 🧪 **Protocol fuzzing workshop** @ Protocol Berg v2 · [repo](https://github.com/thpani/fuzz-pb25)  
 - 🚢 **Soroban smart contract audit** — authentication / authorization · TBA  
 - 🌟 **Solarkraft** — runtime verification for Soroban/Stellar smart contracts · [repo](https://github.com/freespek/solarkraft)  
