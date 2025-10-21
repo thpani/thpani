@@ -32,5 +32,5 @@ Before you spend big on a protocol audit or contest, get a 1-week diagnostic to 
 - 🍭 **Quint** — modern language + tooling for TLA+ specs · [repo](https://github.com/informalsystems/quint)
 
 **🛠️ Languages:** Solidity · Rust · Go · Lean · Python · TypeScript  
-**📐 Verification:** Alloy · Lean4 · Certora Prover · Quint/TLA+ · SMT (CVC5, Z3)  
-**🧪 Fuzzing:** AFL · cargo-fuzz · libFuzzer · Echidna/Medusa · Wake
+**📐 Verification:** Alloy · Lean4 · Certora Prover · Quint / TLA+ · SMT (CVC5, Z3)  
+**🧪 Fuzzing:** AFL · cargo-fuzz · libFuzzer · Echidna / Medusa · Wake
