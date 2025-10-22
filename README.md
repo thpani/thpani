@@ -1,7 +1,7 @@
 Hey, I’m Thomas 👋  
 I help protocol teams **find deep bugs** and **ship with confidence**.
 
-🧾 **New: [Protocol Readiness Review](https://blltprf.xyz/)**  
+🧾 **New: [Protocol Readiness Review](https://blltprf.xyz/#services)**  
 Before you spend big on a protocol audit, get a **1-week diagnostic** to clarify:  
 → what’s worth auditing · where risk actually lives · how to focus your audit scope  
 **$9.8k · 1 week · limited slots/month**  
