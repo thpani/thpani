@@ -1,6 +1,6 @@
 # Hey, I'm Thomas 👋
 
-I help teams building production infrastructure find the failure modes their tests were not designed to catch, by writing executable protocol specifications and using them to drive adversarial tests against the implementation.
+I help engineering teams find the failure modes their tests weren't designed to catch. The same technique used internally at AWS, Oracle, and Microsoft; made practical for teams building complex stateful systems (distributed protocols, cloud-native architectures, payment infrastructure) who need or already run fuzzers, chaos injection, or DST.
 
 As AI-generated code reaches production faster than test suites can keep pace, executable specs are one of the few techniques that can keep up. They describe intent precisely enough to test generated code against, and can be invoked by agents as a verification tool at generation time.
 
