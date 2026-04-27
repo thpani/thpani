@@ -23,5 +23,5 @@ As AI-generated code reaches production faster than test suites can keep pace, e
 - **Protocol fuzzing workshop** @ Protocol Berg v2 · [recording + repo](https://blltprf.xyz/blog/25-min-solidity-fuzzer/)  
 - **Soroban smart contract audit** – private audit with authentication / authorization focus · TBA  
 - **Solarkraft** – model-based runtime monitoring for Soroban/Stellar smart contracts · [repo](https://github.com/freespek/solarkraft)  
-- Core team: **Apalache** – symbolic model checker for **TLA+** & **Quint** · [repo](https://github.com/apalache-mc/apalache)  
+- **Apalache** – core team member; symbolic model checker for **TLA+** & **Quint** · [repo](https://github.com/apalache-mc/apalache)  
 - **Quint** – modern language & tooling for TLA+ specs · [repo](https://github.com/informalsystems/quint)
