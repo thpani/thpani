@@ -1,49 +1,95 @@
 # Hey, I'm Thomas 👋
 
-I help engineering teams find failures their tests weren't designed to catch: the same techniques used internally at AWS, Oracle, and Microsoft; made practical for teams building complex stateful systems (distributed protocols, cloud-native architectures, payment infrastructure).
+I help **platform, infrastructure, and protocol teams** find failures their tests weren't designed to catch, before customers or on-call rotations do.
 
-Executable specifications are one of the few techniques that keep up with increased velocity of AI-generated code. They describe intent precisely and can be invoked by agents as a tool at generation time.
+I build **practical reliability workflows** around executable specifications: property-based tests, fuzzers, simulation, adversarial scenario generation, and conformance testing. These are the same general techniques used internally at AWS, Oracle, and Microsoft, made practical for teams building **cloud-native systems, from Kubernetes controllers and microservices to payment infrastructure and other stateful platforms**.
 
-📫 **Contact:** [blltprf.xyz](https://blltprf.xyz) · webintake@blltprf.xyz | 📍 **Location:** Vienna, AT · available across EU 🇪🇺 and internationally 🌏
+As **AI-generated code** accelerates implementation, the bottleneck shifts from writing code to knowing whether it is correct. Executable specifications help close that gap: they describe intent precisely enough to test against, and can be invoked by agents during generation and review.
+
+📫 **Contact:** [blltprf.xyz](https://blltprf.xyz) · [webintake@blltprf.xyz](mailto:webintake@blltprf.xyz)  
+📍 **Based in:** Vienna, AT · available across Europe and internationally
 
 ### Services
 
-   <table>
-   <tr>
-   <td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-   <b>🎯 Test Oracle Design</b><br>
-   Specification-based oracles that make existing tests find deeper failures.
+<b>⚡ Spec-Driven Testing & Test Oracles</b><br>
+Executable specs used with property-based tests, fuzzers, simulation, adversarial exploration, and conformance checks.
 
-   </td>
-   <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-   <b>⚡ Model-Based Adversarial Testing</b><br>
-   Executable specs, adversarial test generation, and conformance testing.
+<b>🤖 AI-Generated Code Testing</b><br>
+Precise, agent-invokable specs for testing LLM-generated protocol and infrastructure code.
 
-   </td>
-   </tr>
-   <tr>
-   <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-   <b>🤖 AI-Generated Code Testing</b><br>
-   Executable specs as precise oracles for LLM-generated protocol code.
+<b>📐 Protocol Specification & Review</b><br>
+Executable design models and invariant review for distributed protocols, cloud-native systems, and payment infrastructure.
 
-   </td>
-   <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-   <b>📐 Protocol Specification & Review</b><br>
-   Critical components in distributed protocols, cloud-native systems, and payment infrastructure.
+<b>🧪 Workshops & Labs</b><br>
+For teams building cloud-native systems, from Kubernetes controllers and microservices to payment infrastructure and other stateful platforms.
 
-   </td>
-   </tr>
-   </table>
-   
-### Recent work
+</td>
+</tr>
+</table>
 
-[Aztec Governance Protocol](https://blltprf.xyz/blog/aztec-governance-formal-verification/), [Ethereum consensus: 3-slot finality](https://github.com/freespek/ssf-mc), [Protocol fuzzing workshop @ Protocol Berg v2](https://blltprf.xyz/blog/25-min-solidity-fuzzer/), [Solarkraft model-based runtime monitor](https://github.com/freespek/solarkraft), smart contract security audits on Ethereum / Ethereum L2 / Stellar.
+### Customers / recent work
 
-### OSS contributions
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* **Apalache** – core team member; symbolic model checker for **TLA+** & **Quint** · [repo](https://github.com/apalache-mc/apalache)  
-* **Quint** – modern language & tooling for TLA+ specs · [repo](https://github.com/informalsystems/quint)
+<b>Aztec Labs: Governance Protocol</b><br>
+Formal specification + symbolic verification of 125 invariants across a multi-contract governance system · <a href="https://blltprf.xyz/blog/aztec-governance-formal-verification/">write-up</a>
+
+</td>
+<td width="50%" valign="top">
+
+<b>Ethereum Foundation: 3-slot finality</b><br>
+Formal modeling and verification of accountability in Ethereum consensus research · <a href="https://github.com/freespek/ssf-mc">repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b>Protocol fuzzing workshop @ Protocol Berg v2</b><br>
+Hands-on workshop on building a Solidity protocol fuzzer in 25 minutes · <a href="https://blltprf.xyz/blog/25-min-solidity-fuzzer/">recording + repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+<b>Solarkraft</b><br>
+Model-based runtime monitoring for Soroban/Stellar smart contracts · <a href="https://github.com/freespek/solarkraft">repo</a>
+
+</td>
+</tr>
+</table>
+
+### Open source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>Apalache: Symbolic Model Checker for TLA+ and Quint</b><br>
+Core team member; used on Aztec governance, Ethereum 3SF, Tendermint/CometBFT, and Matter Labs/ZKsync protocols · <a href="https://github.com/apalache-mc/apalache">repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+<b>Quint: Modern Language Tooling for TLA+</b><br>
+Co-developed Quint from its early stages at Informal Systems, bringing TypeScript-like syntax to TLA+-style specs · <a href="https://github.com/informalsystems/quint">repo</a>
+
+</td>
+</tr>
+</table>
