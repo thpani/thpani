@@ -4,8 +4,6 @@ I help engineering teams find failures their tests weren't designed to catch: th
 
 Executable specifications are one of the few techniques that keep up with increased velocity of AI-generated code. They describe intent precisely and can be invoked by agents as a tool at generation time.
 
-**Make complex software boring again.**
-
 📫 **Contact:** [blltprf.xyz](https://blltprf.xyz) · webintake@blltprf.xyz | 📍 **Location:** Vienna, AT · available across EU 🇪🇺 and internationally 🌏
 
 ### Services
