@@ -8,11 +8,37 @@ Executable specifications are one of the few techniques that keep up with increa
 
 ### Services
 
-🎯 **Test Oracle Design:** increase signal from existing tools with a specification-based oracle  
-⚡ **Model-Based Adversarial Testing:** end-to-end: spec, adversarial test generation via random and symbolic execution, conformance testing against the implementation  
-🤖 **AI-Generated Code Testing:** executable specs as precise oracles for LLM-generated protocol code, invokable by agents at generation time  
-📐 **Protocol Specification and Review:** testing of critical components (distributed protocols, cloud-native architectures, payment infrastructure)
+   <table>
+   <tr>
+   <td width="50%" valign="top">
 
+   <b>🎯 Test Oracle Design</b><br>
+   Specification-based oracles that make existing tests find deeper failures.
+
+   </td>
+   <td width="50%" valign="top">
+
+   <b>⚡ Model-Based Adversarial Testing</b><br>
+   Executable specs, adversarial test generation, and conformance testing.
+
+   </td>
+   </tr>
+   <tr>
+   <td width="50%" valign="top">
+
+   <b>🤖 AI-Generated Code Testing</b><br>
+   Executable specs as precise oracles for LLM-generated protocol code.
+
+   </td>
+   <td width="50%" valign="top">
+
+   <b>📐 Protocol Specification & Review</b><br>
+   Critical components in distributed protocols, cloud-native systems, and payment infrastructure.
+
+   </td>
+   </tr>
+   </table>
+   
 ### Recent work
 
 [Aztec Governance Protocol](https://blltprf.xyz/blog/aztec-governance-formal-verification/), [Ethereum consensus: 3-slot finality](https://github.com/freespek/ssf-mc), [Protocol fuzzing workshop @ Protocol Berg v2](https://blltprf.xyz/blog/25-min-solidity-fuzzer/), [Solarkraft model-based runtime monitor](https://github.com/freespek/solarkraft), smart contract security audits on Ethereum / Ethereum L2 / Stellar.
