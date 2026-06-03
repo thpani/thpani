@@ -15,9 +15,11 @@ Executable specifications are one of the few techniques that keep up with increa
 🤖 **AI-Generated Code Testing:** executable specs as precise oracles for LLM-generated protocol code, invokable by agents at generation time  
 📐 **Protocol Specification and Review:** testing of critical components (distributed protocols, cloud-native architectures, payment infrastructure)
 
-**Recent work:** [Aztec Governance Protocol](https://blltprf.xyz/blog/aztec-governance-formal-verification/), [Ethereum consensus: 3-slot finality](https://github.com/freespek/ssf-mc), [Protocol fuzzing workshop @ Protocol Berg v2](https://blltprf.xyz/blog/25-min-solidity-fuzzer/), [Solarkraft model-based runtime monitor](https://github.com/freespek/solarkraft), smart contract security audits on Ethereum / Ethereum L2 / Stellar.
+### Recent work
 
-**OSS contributions:**
+[Aztec Governance Protocol](https://blltprf.xyz/blog/aztec-governance-formal-verification/), [Ethereum consensus: 3-slot finality](https://github.com/freespek/ssf-mc), [Protocol fuzzing workshop @ Protocol Berg v2](https://blltprf.xyz/blog/25-min-solidity-fuzzer/), [Solarkraft model-based runtime monitor](https://github.com/freespek/solarkraft), smart contract security audits on Ethereum / Ethereum L2 / Stellar.
+
+### OSS contributions
 
 * **Apalache** – core team member; symbolic model checker for **TLA+** & **Quint** · [repo](https://github.com/apalache-mc/apalache)  
 * **Quint** – modern language & tooling for TLA+ specs · [repo](https://github.com/informalsystems/quint)
