@@ -55,7 +55,7 @@ Formal specification + symbolic verification of 125 invariants across a multi-co
 <td width="50%" valign="top">
 
 <b>Ethereum Foundation: 3-slot finality</b><br>
-Formal modeling and verification of accountability in Ethereum consensus research · <a href="https://github.com/freespek/ssf-mc">repo</a>
+Formal modeling and verification of accountability in Ethereum 3SF consensus · <a href="https://github.com/freespek/ssf-mc">repo</a>
 
 </td>
 </tr>
