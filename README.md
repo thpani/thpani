@@ -35,8 +35,8 @@ Executable design models and invariant review for distributed protocols, cloud-n
 </td>
 <td width="50%" valign="top">
 
-<b>🧪 Workshops & Labs</b><br>
-For teams building cloud-native systems, from Kubernetes controllers and microservices to payment infrastructure and other stateful platforms.
+<b>💡 Strategy & Training</b><br>
+For teams building cloud-native systems, microservices, and other stateful platforms.
 
 </td>
 </tr>
