@@ -21,16 +21,16 @@ Executable specs used with property-based tests, fuzzers, simulation, adversaria
 </td>
 <td width="50%" valign="top">
 
-<b>🤖 AI-Generated Code Testing</b><br>
-Precise, agent-invokable specs for testing LLM-generated protocol and infrastructure code.
+<b>📐 Protocol Specification & Review</b><br>
+Executable design models and invariant review for distributed protocols, cloud-native systems, and payment infrastructure.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<b>📐 Protocol Specification & Review</b><br>
-Executable design models and invariant review for distributed protocols, cloud-native systems, and payment infrastructure.
+<b>🤖 AI-Generated Code Testing</b><br>
+Precise, agent-invokable specs for testing LLM-generated protocol and infrastructure code.
 
 </td>
 <td width="50%" valign="top">
