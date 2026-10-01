@@ -11,4 +11,4 @@ My work combines three things that are rarely found together:
 Recent work includes **AI-assisted verification** and **rigorous testing of AI-generated code**.
 
 📫 **Contact:** [thpani.net](https://thpani.net/?utm_source=github&utm_medium=bio) · [hello@thpani.net](mailto:hello@thpani.net)  
-📍 **Based in:** Vienna, AT · available across Europe and internationally
+📍 **Based in:** Vienna, AT · working internationally
